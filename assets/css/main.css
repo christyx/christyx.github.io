@@ -2550,7 +2550,10 @@ input, select, textarea {
 			color: #b2b2b2 !important;
 			cursor: default;
 		}
-
+  .i-skills {
+		font-size: 60px;
+		color: rgb(158, 214, 222);
+	}
 /* Work Item */
 
 	.work-item {

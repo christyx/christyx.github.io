@@ -886,7 +886,13 @@ $size-header-pad: 4em;
 			}
 		}
 	}
-
+	  ul.actionss {
+	  	display: flex;
+	  	flex-direction: row;
+	  	justify-content: center;
+	  	color: red;
+			margin: 200px;
+	  }
 /* Table */
 
 	.table-wrapper {
@@ -1631,3 +1637,8 @@ $size-header-pad: 4em;
 			}
 
 	}
+
+  .i-skills {
+	color: red;
+  margin: 200px;
+  }
